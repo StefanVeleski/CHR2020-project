@@ -42,7 +42,6 @@ ggscatter(Sentiment_dataset1, x = 'Goodreads', y = 'Sentiment',
           xlab = "Number of Goodreads ratings (log)", ylab = "Mean Sentiment")
 
 ####Facet wrapped graph####
-library(ggpubr)
 options(scipen=10000)
 ggscatter(Sentiment_dataset1, x = 'Goodreads', y = 'Sentiment',
           add = "reg.line", conf.int = TRUE,
