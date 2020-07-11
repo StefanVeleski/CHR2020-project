@@ -8,10 +8,10 @@ ldf <- lapply(filenames, get_text_as_string)
 ldf_as_vector <- lapply(ldf, function(x) unlist(ldf[x], use.names = FALSE))
 
 #This line of code uses the syuzhet package to divide the novels into sentences
-sentences <- lapply(ldf_as_vector, get_sentences)#works
+sentences <- lapply(ldf_as_vector, get_sentences)
 
 #This line extracts the sentiment of each sentence of the novels
-sentiment <- lapply(sentences, get_sentiment) #works
+sentiment <- lapply(sentences, get_sentiment)
 
 #These lines calculate the mean sentiment of each novel and creates a dataframe
 mean_sentiment <- lapply(sentiment, mean)
