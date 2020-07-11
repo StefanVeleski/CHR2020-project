@@ -1,0 +1,847 @@
+Book,Title,Goodreads,Sentiment,Status
+1,"Farewell, Nikola  ",15,0.23124,Neither
+2,A Child of the Jago,534,-0.041759,Canonical novels
+3,As Others Saw Him,0,0.123316,Neither
+4,As We Sweep Through The Deep ,0,0.27737,Neither
+5,At a Winter's Fire  ,18,-0.140801,Neither
+6,At Aboukir and Acre A Story of Napoleon's Invasion of Egypt ,0,0.132627,Neither
+7,At the Relton Arms,2,0.297092,Neither
+8,Athelstane Ford,1,-0.062959,Neither
+9,Audrey Craven ,10,0.170015,Neither
+10,Averil  ,9,0.182786,Neither
+11,Aylwin ,5,0.08158,Neither
+12,Babes in the Bush   ,0,0.389451,Neither
+13,Baboo Jabberjee B.A.,4,0.488777,Neither
+14,Beric the Briton A Story of the Roman Invasion ,1080,0.063147,Neither
+15,Bert Lloyd's Boyhood A Story from Nova Scotia  ,0,0.502387,Neither
+16,Between Sun and Sand A Tale of an African Desert ,2,-0.062542,Neither
+17,Beyond the City   ,1,0.27086,Neither
+18,Black Rock A Tale of the Selkirks  ,18,0.14054,Neither
+19,Blanche A Story for Girls,0,0.428278,Neither
+20,Blazing Arrow A Tale of the Frontier   ,1,0.038341,Neither
+21,Blood Royal A Novel   ,3,0.305434,Neither
+22,Blue Jackets or The Log of the Teaser  ,3,-0.008531,Neither
+23,A Clerk of Oxford and His Adventures in the Baron's War  ,0,0.39592,Neither
+24,Bob Strong's Holidays Adrift in the Channel  ,0,0.304644,Neither
+25,Boris the Bear Hunter  ,0,0.18658,Neither
+26,Born in Exile ,326,0.233969,Neither
+27,Both Sides the Border A Tale of Hotspur and Glendower,0,0.233548,Neither
+28,Bristol Bells A Story of the Eighteenth Century ,1,0.138193,Neither
+29,Brooke's Daughter A Novel  ,0,0.185626,Neither
+30,By Berwen Banks  ,0,0.323423,Neither
+31,By England's Aid  or The Freeing of the Netherlands (1585-1604)  ,0,0.133747,Neither
+32,By Far Euphrates A Tale,17,0.038883,Neither
+33,By order of the company  ,0,-0.043176,Neither
+34,A Comedy of Masks ,0,0.215449,Neither
+35,By Reef and Palm  ,24,0.013331,Neither
+36,"By Right of Conquest Or, With Cortez in Mexico  ",0,0.207387,Neither
+37,By Right of Sword  ,0,-0.005436,Neither
+38,Bye Ways  ,0,-0.040199,Neither
+39,Cæsar's Column A Story of the Twentieth Century  ,0,0.113452,Neither
+40,Capt'n Davy's Honeymoon  ,4,0.083293,Neither
+41,Casa Braccio   ,4,0.085107,Neither
+42,Catharine Furze   ,5,0.19489,Neither
+43,Catriona ,1131,0.136059,Bestsellers
+44,Cecilia de Noël  ,0,0.11956,Neither
+45,A Country Sweetheart   ,1,0.183872,Neither
+46,Celibates,10,0.127183,Neither
+47,Children of the Ghetto ,89,0.217047,Neither
+48,Children of the Mist ,21,0.074097,Neither
+49,Clara Hopgood  ,15,0.215536,Neither
+50,Clarence ,6,-0.017976,Neither
+51,Cleg Kelly Arab of the City ,1,0.110982,Neither
+52,Clementina  ,17,0.047929,Neither
+53,Cleo The Magnificent Or The Muse of the Real ,0,0.293708,Neither
+54,Clutterbuck's Treasure ,0,0.129061,Neither
+55,Colonel Starbottle's Client,2,0.105446,Neither
+56,A Dash for a Throne,0,0.016573,Neither
+57,Colonel Thorndyke's Secret,0,0.235201,Neither
+58,Colonial Born A Tale of the Queensland bush,0,-0.054649,Neither
+59,Comedies of Courtship,0,0.273045,Neither
+60,Condemned as a Nihilist A Story of Escape from Siberia,80,0.112024,Neither
+61,Corleone A Tale of Sicily ,9,0.088959,Neither
+62,Cormorant Crag a Tale of the Smuggling Days,3,0.068455,Neither
+63,Count Hannibal A Romance of the Court of France,0,-0.230475,Neither
+64,Cowmen and Rustlers A Story of the Wyoming Cattle Ranges,106,0.124706,Neither
+65,Crown and Anchor Under the Penant,1,0.268924,Neither
+66,Crusoes of the Frozen North,0,0.153801,Neither
+67,A Daughter of the Vine,8,0.140182,Neither
+68,Cursed by a Fortune,0,0.085329,Neither
+69,D Ri and I A Tale of Daring Deeds in the Second War with the British Being the Memoirs of Colonel Ramon Bell U.S.A.,17,0.113508,Neither
+70,Dariel A Romance of Surrey ,0,0.357458,Neither
+71,Darkness and Dawn Or Scenes in the Days of Nero An Historic Tale,0,-0.10787,Neither
+72,Dead Men Tell No Tales,0,-0.073108,Neither
+73,Denzil Quarrier,17,0.237359,Neither
+74,Despair's Last Journey,0,0.107327,Neither
+75,Devil's Dice,2,0.025649,Neither
+76,Diana Tempest ,26,0.030611,Neither
+77,Dodo A Detail of the Day ,19,0.235914,Bestsellers
+78,A Daughter of To Day   ,0,0.360619,Neither
+79,Dolly Dialogues  ,34,0.20572,Neither
+80,Domitia ,1,0.048979,Neither
+81,Don Orsino ,9,0.255548,Neither
+82,Donald Ross of Heimra ,1,0.152294,Neither
+83,Donna Teresa ,0,0.080998,Neither
+84,Doom Castle  ,27,-0.017025,Neither
+85,Dorothy's Double  ,0,0.209429,Neither
+86,Dr. Rumsey's Patient ,0,0.096053,Neither
+87,Dracula  ,897395,0.103137,Canonical novels
+88,Draw Swords In the Horse Artillery,9,0.143039,Neither
+89,A Deal with The Devil,8,0.159159,Neither
+90,Dream Days,235,0.29849,Neither
+91,Dream Life and Real Life A Little African Story  I.,19,0.141261,Neither
+92,Dreamers of the Ghetto,6,0.183184,Neither
+93,Drolls From Shadowland,0,0.019649,Neither
+94,Dwell Deep or Hilda Thorn's Life Story,18,0.270259,Neither
+95,Eben Holden A Tale of the North Country,45,0.155365,Neither
+96,Edward Barry South Sea Pearler,1,0.218872,Neither
+97,Eleanor,11,0.060914,Neither
+98,Eliza,17,0.231073,Neither
+99,Elizabeth and Her German Garden,2718,0.432995,Bestsellers
+100,A Devotee An Episode in the Life of a Butterfly,6,0.10104,Neither
+101,Emily Fox Seton Being The Making of a Marchioness and The Methods of Lady Walderhurst  ,1431,0.35826,Neither
+102,Erewhon Revisited Twenty Years Later Both by the Original Discoverer of the Country and by His Son,133,0.311273,Neither
+103,Eric Brighteyes ,476,-0.087898,Neither
+104,Esther's Charge A Story for Girls,0,0.303049,Neither
+105,Esther Waters,704,0.146386,Canonical novels
+106,Etidorhpa or The End of Earth The Strange History of a Mysterious Being and the Account of a Remarkable Journey,204,0.202808,Neither
+107,Eve's Ransom,86,0.22224,Neither
+108,Evelyn Innes,7,0.306721,Neither
+109,Faith Gartney's Girlhood,0,0.353907,Neither
+110,Fan The Story of a Young Girl's Life,0,0.248439,Neither
+111,Tween Snow and Fire A Tale of the Last Kafir War,8,-0.183908,Neither
+112,A Digit of the Moon A Hindoo Love Story,181,0.131196,Neither
+113,Father Stafford,5,0.251834,Neither
+114,Fifteen Hundred Miles An Hour   ,3,0.302316,Neither
+115,Final Proof Or The Value of Evidence,2,0.162598,Neither
+116,Fire Island ,1,0.00719,Neither
+117,For Treasure Bound,0,0.489566,Neither
+118,Fordham's Feud,2,0.095689,Neither
+119,Frances Waldeaux A Novel,0,0.140156,Neither
+120,French and English A Story of the Struggle in America,0,-0.029008,Neither
+121,Friendship and Folly A Novel,3,0.206157,Neither
+122,From Kingdom to Colony,0,0.154325,Neither
+123,A Doctor of the Old School,6,0.048419,Neither
+124,From One Generation to Another,0,0.218674,Neither
+125,From the Memoirs of a Minister of France,0,-0.022944,Neither
+126,From Whose Bourne,7,0.123394,Neither
+127,Garthowen A Story of a Welsh Homestead,0,0.469029,Neither
+128,Gaston de Latour an unfinished romance,6,0.782791,Neither
+129,Ghetto Tragedies,13,0.062935,Neither
+130,Gil the Gunner The Youngest Officer in the East,1,0.015071,Neither
+131,Gilian The Dreamer His Fancy His Love and Adventure,6,0.050523,Neither
+132,Gold Gold in Cariboo A Story of Adventure in British Columbia,0,0.072745,Neither
+133,Golden Face A Tale of the Wild West,2,-0.104959,Neither
+134,A Dog with a Bad Name,19,0.087627,Neither
+135,Good Luck,0,0.410324,Neither
+136,Grace O'Malley Princess and Pirate,1,-0.003073,Neither
+137,Green Fire A Romance,3,-0.002486,Neither
+138,Grey Roses,1,0.137957,Neither
+139,Grim Tales  ,126,0.079978,Neither
+140,Grisly Grisell Or The Laidly Lady of Whitburn A Tale of the Wars of the Roses,53,0.206536,Neither
+141,Guilty Bonds,3,-0.08138,Neither
+142,Half a Hero A Novel,4,0.183227,Neither
+143,Heather and Snow,217,0.089632,Neither
+144,Helbeck of Bannisdale,31,0.046872,Bestsellers
+145,A Dozen Ways Of Love,4,0.226409,Neither
+146,Held Fast For England A Tale of the Siege of Gibraltar 1779-83,0,0.248522,Neither
+147,Her Ladyship's Elephant,6,0.2297,Neither
+148,Her Majesty's Minister,2,0.206604,Neither
+149,Herb of Grace  ,14,0.379818,Neither
+150,Hilda Wade a Woman with Tenacity of Purpose,25,0.13237,Neither
+151,His Big Opportunity,12,0.307597,Neither
+152,His Grace of Osmonde Being the Portions of That Nobleman's Life Omitted in the Relation of His Lady's Story Presented to the World of Fashion under the Title of A Lady of Quality,63,0.379104,Neither
+153,His Lordship's Leopard A Truthful Narration of Some Impossible Facts,1,0.277044,Neither
+154,Hugh Wynne Free Quaker Sometime Brevet Lieutenant-Colonel on the Staff of his Excellency General Washington,0,0.166574,Neither
+155,Hunted and Harried,98,-0.105979,Neither
+156,A Duet with an Occasional Chorus,0,0.216616,Neither
+157,"I, Thou, and the Other One A Love Story",10,0.360888,Neither
+158,If Sinners Entice Thee,2,0.151547,Neither
+159,Imogen Only Eighteen,0,0.293197,Neither
+160,In a Hollow of the Hills,0,-0.021399,Neither
+161,In Connection with the De Willoughby Claim,0,0.251526,Neither
+162,In Direst Peril,1,0.18715,Neither
+163,In Far Bolivia A Story of a Strange Wild Land,0,0.135288,Neither
+164,In Greek Waters A Story of the Grecian War of Independence,0,0.223377,Neither
+165,In Homespun,0,0.250775,Neither
+166,In Honour's Cause A Tale of the Days of George the First,0,0.074655,Neither
+167,A Fascinating Traitor An Anglo Indian Story,1,0.161927,Neither
+168,In Kedar's Tents,0,0.175786,Bestsellers
+169,In Search of Mademoiselle,2,0.047636,Neither
+170,In Strange Company A Story of Chili and the Southern Seas,3,0.113137,Neither
+171,In the Cage,717,0.33997,Neither
+172,In the Day of Adversity,0,-0.029461,Neither
+173,In the Days of Drake,36,0.082355,Neither
+174,In the Days of Chivalry  A Tale of the Times of the Black Prince,0,0.180981,Neither
+175,In the Fire of the Forge A Romance of Old Nuremberg,0,0.439865,Neither
+176,In the Fog,316,-0.004978,Neither
+177,In the Heart of the Rockies A Story of Adventure in Colorado,0,0.191624,Neither
+178,A First Family of Tasajara,0,0.241759,Neither
+179,In the Irish Brigade: A Tale of War in Flanders and Spain,0,0.223951,Neither
+180,In the Mahdi's Grasp,0,0.29339,Neither
+181,In the Midst of Alarms,7,0.196992,Neither
+182,In the Palace of the King A Love Story of Old Madrid,14,0.070778,Neither
+183,In the Quarter,10,0.073527,Neither
+184,In the Roar of the Sea,15,-0.031166,Neither
+185,In the Tideway,0,0.150843,Neither
+186,In the Wars of the Roses A Story for the Young,0,0.39251,Neither
+187,In the Year of Jubilee  Part ,136,0.143833,Neither
+188,In the Yellow Sea,1,-0.001691,Neither
+189,"A Friend of Caesar  A Tale of the Fall of the Roman Republic  Time, 50-47 B.C.",25,0.001189,Neither
+190,In White Raiment,0,0.115688,Neither
+191,Into the Highways and Hedges,1,-0.006579,Neither
+192,Jack of Both Sides The Story of a School War,1,0.057193,Neither
+193,Jane Field  A Novel,0,0.148023,Neither
+194,Jennie Baxter Journalist,9,0.359134,Neither
+195,Jewel Mysteries from a Dealer's Note Book,26,0.192778,Neither
+196,Jill a Flower Girl,0,0.316922,Neither
+197,Joan of the Sword Hand,2,0.230407,Neither
+198,Joe Wilson and His Mates,32,-0.009397,Neither
+199,"John Ames, Native Commissioner",1,-0.083731,Neither
+200,A Gallant Grenadier A Tale of the Crimean War,15,0.041726,Neither
+201,John Burnet of Barns A Romance,71,0.099235,Neither
+202,"John Splendid  The Tale of a Poor Gentleman, and the Little Wars of Lorn",14,-0.0482,Neither
+203,Jude the Obscure,59811,0.190505,Canonical novels
+204,Jungle and Stream Or The Adventures of Two Boys in Siam,0,0.056701,Neither
+205,Kate Carnegie and Those Ministers,0,0.421716,Neither
+206,Khaled A Tale of Arabia,73,0.191659,Neither
+207,Kilgorman A Story of Ireland in 1798,4,-0.080157,Neither
+208,Kim,32366,0.104296,Both canonical and bestsellers
+209,King of the Castle,2,0.084782,Neither
+210,Klondike Nuggets and How Two Boys Secured Them,2,0.235264,Neither
+211,A Gentleman of France Being the Memoirs of Gaston de Bonne Sieur de Marsac,0,-0.039004,Neither
+212,Lancashire Idylls 1898,0,-0.009233,Neither
+213,Lawrence Clavering,6,0.007067,Neither
+214,Light Freights,0,0.059233,Neither
+215,Lilith A Romance,5442,-0.044354,Neither
+216,Little Miss Joy,1,0.285952,Neither
+217,Liza of Lambeth,1625,0.039701,Neither
+218,Lochinvar A Novel,4,0.109014,Neither
+219,London Pride Or When the World Was Younger,10,0.174088,Neither
+220,Lord Jim ,26700,-0.053442,Canonical novels
+221,Lord Ormont and His Aminta,11,0.196894,Neither
+222,Captains Courageous A Story of the Grand Banks,19229,0.067948,Canonical novels
+223,A Girl in Spring-Time,8,0.180758,Neither
+224,Lords of the World A story of the fall of Carthage and Corinth,12,0.212932,Neither
+225,Lost Man's Lane A Second Episode in the Life of Amelia Butterworth ,0,0.139701,Neither
+226,Love Among the Lions A Matrimonial Experience,0,0.25804,Neither
+227,Love and Mr. Lewisham,0,0.068028,Neither
+228,Lying Prophets A Novel,1,0.138535,Neither
+229,Lysbeth a Tale of the Dutch,251,0.054143,Neither
+230,Madelon  A Novel,0,0.055487,Neither
+231,Mademoiselle Blanche,0,0.206936,Neither
+232,Maggie A Girl of the Streets,7129,-0.199213,Neither
+233,Mammon and Co. ,0,0.303878,Neither
+234,A Girl of the Klondike,0,0.004314,Neither
+235,Many Cargoes,0,0.146636,Neither
+236,Maori and Settler A Story of The New Zealand War,0,0.239813,Neither
+237,Marcella  ,2,0.121576,Canonical novels
+238,Marietta A Maid of Venice,23,0.167972,Neither
+239,Marion Darche A Story Without Comment,0,0.215056,Neither
+240,A Modern Wizard,3,0.131122,Neither
+241,Martin Hewitt Investigator,0,0.070233,Neither
+242,Mass George A Boy's Adventures in the Old Savannah,1,-0.026037,Neither
+243,Master of Men,0,0.117336,Neither
+244,Master Skylark A Story of Shakspere's Time,46,0.117634,Neither
+245,A Girl of the North A Story of London and Canada,0,0.139233,Neither
+246,Materfamilias,2,0.183552,Neither
+247,Menotah A Tale of the Riel Rebellion,0,-0.065888,Neither
+248,Michael's Crag,8,0.085722,Neither
+249,Miranda of the Balcony A Story,8,-0.009287,Neither
+250,Miss Cayley's Adventures  ,207,0.129665,Neither
+251,Miss Merivale's Mistake,0,0.197536,Neither
+252,Miss Mous and Her Boys,0,0.256189,Neither
+253,Miss Stuart's Legacy,2,0.043186,Neither
+254,Mollie's Prince A Novel,10,0.356703,Bestsellers
+255,Monsieur Beaucaire,104,0.114363,Neither
+256,A Gray Eye or So,0,0.322317,Neither
+257,Montezuma's Daughter,1654,-0.089048,Neither
+258,Moonfleet,4580,-0.135686,Neither
+259,More About Peggy,0,0.359279,Neither
+260,Mr.Marx's Secret,37,0.046719,Neither
+261,Mr.Witt's Widow A Frivolous Tale,4,0.188869,Neither
+262,Mrs.Cliff's Yacht,3,0.571784,Neither
+263,My Brilliant Career,5488,0.221965,Neither
+264,My Danish Sweetheart A Novel,4,0.030056,Neither
+265,My Lady Rotha,12,-0.097215,Neither
+266,My Lord Duke,3,0.171926,Neither
+267,A Hero of Romance,2,0.096108,Neither
+268,Mysterious Mr. Sabin,30,0.165358,Neither
+269,Nada the Lily,306,-0.205395,Neither
+270,Nevermore,0,0.078034,Neither
+271,New Grub Street,5509,0.142329,Canonical novels
+272,News from Nowhere Or An Epoch of Rest Being Some Chapters from a Utopian Romance,1636,0.699198,Canonical novels
+273,No Surrender A Tale of the Rising in La Vendee,0,0.037122,Neither
+274,Noémi,1,-0.101158,Neither
+275,Nurse Elisia,1,0.129738,Neither
+276,Nurse Heatherdale's Story,0,0.325361,Neither
+277,Odd,20,0.209659,Neither
+278,A Honeymoon in Space,73,0.380544,Neither
+279,Olaf the Glorious A Story of the Viking Age,157,0.198531,Neither
+280,On the Face of the Waters A Tale of the Mutiny,31,0.004282,Neither
+281,On The Irrawaddy: A Story of the First Burmese War,0,0.13317,Neither
+282,One Man's View,2,0.180736,Neither
+283,One of Our Conquerors,6,0.227791,Neither
+284,Orientations,43,0.028192,Neither
+285,Our Bessie,21,0.355051,Neither
+286,Our Friend the Charlatan,19,0.343329,Neither
+287,Out with Garibaldi A story of the liberation of Italy,0,0.112658,Neither
+288,Pabo the Priest A Novel,1,-0.040108,Neither
+289,A Humble Enterprise,6,0.447988,Neither
+290,Parson Kelly,5,0.077999,Neither
+291,Paul the Courageous,1,-0.029064,Neither
+292,Peccavi ,0,0.056944,Neither
+293,Pembroke A Novel,0,0.022191,Neither
+294,Penelope's Experiences in Scotland Being Extracts from the Commonplace Book of Penelope Hamilton  ,30,0.448289,Bestsellers
+295,Penelope's Irish Experiences  ,23,0.511771,Bestsellers
+296,Penshurst Castle in the Time of Sir Philip Sidney,2,0.322501,Neither
+297,Perlycross A Tale of the Western Hills ,0,0.299429,Neither
+298,Perpetua A Tale of Nimes in A.D. 213 ,1,0.024232,Neither
+299,Peter Ibbetson ,85,0.416163,Neither
+300,A Journey in Other Worlds A Romance of the Future ,78,0.393359,Neither
+301,Pharais ,8,-0.244389,Neither
+302,Pharaoh's Broker Being the Very Remarkable Experiences in Another World of Isidor Werner  ,1,0.179459,Neither
+303,Pharos The Egyptian A Romance,47,0.129026,Neither
+304,Philippa,0,0.325698,Neither
+305,Phroso A Romance,33,0.011133,Neither
+306,Phyllis of Philistia,0,0.319296,Neither
+307,Pierre and His People Tales of the Far North,0,0.064916,Neither
+308,Pietro Ghisleri,2,0.212738,Neither
+309,Plain Living A Bush Idyll,0,0.476081,Neither
+310,Polly Oliver's Problem,34,0.484463,Neither
+311,A Knight of the Nets ,2,0.175797,Neither
+312,Pomona's Travels A Series of Letters to the Mistress of Rudder Grange from her Former Handmaiden,9,0.498616,Neither
+313,Prairie Folks,9,0.059889,Neither
+314,Prince Ricardo of Pantouflia Being the Adventures of Prince Prigio's Son,10,0.300616,Neither
+315,Prince Zaleski,77,-0.094926,Neither
+316,Prisoners of Conscience,0,0.08113,Neither
+317,Prisoners of Hope,2,-0.063734,Neither
+318,Quisanté ,4,0.291317,Neither
+319,Rabbi Saunderson ,0,0.311933,Neither
+320,Ralph Denham's Adventures in Burma A Tale of the Burmese Jungle,0,0.07843,Neither
+321,Real Gold A Story of Adventure,3,0.073211,Neither
+322,A Knight of the White Cross A Tale of the Siege of Rhodes,0,0.30574,Neither
+323,Recalled to Life,13,-0.0235,Neither
+324,Red Pottage,152,0.044845,Neither
+325,Red Rowans,0,0.286901,Neither
+326,Redskin and Cow Boy A Tale of the Western Plains,0,0.194869,Neither
+327,Reginald Cruden A Tale of City Life,6,0.184927,Neither
+328,Renshaw Fanning's Quest ,7,-0.046249,Neither
+329,Revenge,32,0.035324,Neither
+330,Richard Carvel,50,0.122105,Bestsellers
+331,Robert Orange Being a Continuation of the History of Robert Orange,1,0.176066,Neither
+332,Robin Redbreast A Story for Girls,0,0.332286,Neither
+333,God Wills It A Tale of the First Crusade,56,0.025434,Neither
+334,A Little Norsk Or Ol' Paps' Flaxen,9,0.144651,Neither
+335,Roden's Corner,0,0.275102,Neither
+336,Rodney Stone,178,0.122274,Neither
+337,"Roger Ingleton, Minor",6,0.221383,Neither
+338,Rose of Dutcher's Coolly,34,0.311237,Neither
+339,Rujub the Juggler,0,0.175668,Neither
+340,Rupert of Hentzau From The Memoirs of Fritz Von Tarlenheim Sequel to The Prisoner of Zenda,1380,0.051417,Bestsellers
+341,Sail Ho A Boy at Sea,0,-0.041999,Neither
+342,Saint Bartholomew's Eve: A Tale of the Huguenot Wars,0,0.213656,Neither
+343,Salted with Fire,232,0.10547,Neither
+344,Samuel Boyd of Catchpole Square A Mystery,927,0.074892,Neither
+345,A Little Rebel,3,0.139584,Neither
+346,Sappers and Miners The Flood beneath the Sea,2,-0.005428,Neither
+347,Saronia A Romance of Ancient Ephesus,1,0.157492,Neither
+348,Savrola A Tale of the Revolution in Laurania,0,-0.007689,Neither
+349,Sawn Off A Tale of a Family Tree,0,0.067539,Neither
+350,Linnet,4,0.292494,Neither
+351,Sea Urchins,0,0.061227,Neither
+352,Senator North ,3,0.263448,Neither
+353,Sentimental Tommy The Story of His Boyhood,62,0.025482,Bestsellers
+354,Settling Day,4,0.045515,Neither
+355,Seven Little Australians,0,0.059857,Neither
+356,A Man and a Woman,0,0.254282,Neither
+357,Shameless Wayne A Romance of the last Feud of Wayne and Ratcliffe,0,-0.184476,Neither
+358,Sheilah McLeod A Heroine of the Back Blocks,3,0.110786,Neither
+359,Ships That Pass in the Night,84,0.180814,Bestsellers
+360,Shrewsbury A Romance,0,-0.110008,Neither
+361,Simon Dale,18,0.14508,Neither
+362,Sir George Tressady,2,0.108529,Neither
+363,Sir Quixote of the Moors Being some account of an episode in the life of the Sieur de Rohaine,27,0.023502,Neither
+364,Sister Carrie,36183,0.23528,Neither
+365,Sister Dolorosa and Posthumous Fame,1,0.15597,Neither
+366,Sister Teresa,4,0.327334,Neither
+367,A Man His Mark A Romance,0,-0.073574,Neither
+368,Sisters Three,0,0.298428,Neither
+369,Sketches in Lavender Blue and Green,58,0.199423,Neither
+370,Soldier Rigdale How He Sailed in the Mayflower and How He Served Miles Standish,0,-0.108925,Neither
+371,Soldiers of Fortune ,61,0.25294,Neither
+372,Some Experiences of an Irish R.M.,0,0.082159,Neither
+373,Some Persons Unknown,0,0.149868,Neither
+374,Sons of the Morning,0,0.188479,Neither
+375,Sophia A Romance,0,-0.061032,Neither
+376,St.Ives Being the Adventures of a French Prisoner in England,128,0.104993,Neither
+377,St. Peter's Umbrella,1046,0.28857,Neither
+378,A March on London Being a Story of Wat Tyler's Insurrection,0,0.356663,Neither
+379,Stephen A Soldier of the Cross,92,-0.055754,Neither
+380,"Steve Young; or, The Voyage of the ""Hvalross"" to the Icy Seas",2,0.093697,Neither
+381,Stolen Souls,2,-0.029964,Neither
+382,Swallow A Tale of the Great Trek,65,-0.028862,Neither
+383,Sweet Content,0,0.320294,Neither
+384,Syd Belton The Boy Who Would Not Go to Sea,1,0.033069,Neither
+385,Sylvie and Bruno,279,0.18255,Neither
+386,Tales From the Telling House,0,0.255556,Neither
+387,Tales from the Veld,3,-0.024278,Neither
+388,Tales of Mean Streets,63,0.007865,Neither
+389,A Marriage at Sea,4,0.332978,Neither
+390,Tales of South Africa,0,0.136116,Neither
+391,Tales of Trail and Town,12,0.15154,Neither
+392,Taquisara ,2,0.16939,Neither
+393,Terry Or She ought to have been a Boy,0,0.124527,Neither
+394,Tess of the d'Urbervilles A Pure Woman,231991,0.200949,Both canonical and bestsellers
+395,That Affair Next Door,0,0.113766,Neither
+396,That Little Beggar,0,0.144354,Neither
+397,That Mainwaring Affair,54,0.346777,Neither
+398,That Scholarship Boy,3,0.217867,Neither
+399,That Stick,2,0.256718,Neither
+400,A Master Of Craft,0,0.134085,Neither
+401,The Admiral A Romance of Nelson in the Year of the Nile,0,0.45949,Neither
+402,The Adventure of Princess Sylvia,1,0.388589,Neither
+403,The Adventures of Captain Horn ,55,0.211636,Neither
+404,The Adventures of Don Lavington,0,-0.073597,Neither
+405,The Adventures of François Foundling Thief Juggler and Fencing Master during the French Revolution  ,0,0.026909,Neither
+406,The Amateur Cracksman  ,2089,0.066182,Neither
+407,The Amazing Marriage,11,0.18204,Neither
+408,The Angel of the Revolution A Tale of the Coming Terror,0,0.019952,Neither
+409,The Arbiter A Novel  ,1,0.281834,Neither
+410,The Autobiography of a Quack and The Case of George Dedlow,0,0.097794,Neither
+411,A Master of Fortune Being Further Adventures of Captain Kettle,4,0.084545,Neither
+412,The Awkward Age,925,0.416651,Canonical novels
+413,The Battle of the Strong A Romance of Two Kingdoms,0,0.049587,Neither
+414,The Beautiful White Devil,13,0.266648,Neither
+415,The Beetle A Mystery,2275,-0.013354,Canonical novels
+416,The Bell Ringer of Angel's,5,0.117897,Neither
+417,The Benefactress,244,0.190784,Neither
+418,The Beth Book Being a Study of the Life of Elizabeth Caldwell Maclure a Woman of Genius  ,94,0.245817,Neither
+419,The Betrayal of John Fordham,0,0.042237,Neither
+420,The Big Bow Mystery,577,-0.072916,Neither
+421,The Birthright ,4,0.0474,Neither
+422,A Master of Mysteries,0,-0.019822,Neither
+423,The Bishop's Secret,69,0.081718,Neither
+424,The Black Bar,3,-0.010269,Neither
+425,The Black Douglas,51,0.099337,Neither
+426,The Black Tor A Tale of the Reign of James the First,1,-0.129765,Neither
+427,The Black Wolf's Breed A Story of France in the Old World and the New happening in the Reign of Louis XIV,2,0.088906,Neither
+428,The Blue Pavilions,0,0.095094,Neither
+429,The Bond of Black,0,0.055807,Neither
+430,The Boss of Taroomba  ,0,0.100598,Neither
+431,The Bountiful Lady Or How Mary was changed from a very Miserable Little Girl to a very Happy One,5,0.225823,Neither
+432,The Brass Bottle ,80,0.3478,Neither
+433,A Millionaire of Yesterday,12,0.056829,Neither
+434,The British Barbarians,30,0.124501,Neither
+435,The Broom Squire,14,0.05409,Neither
+436,"The Buffalo Runners, A tale of the Red River Plains",8,0.174846,Neither
+437,The Bushranger's Secret,0,-0.008692,Neither
+438,The Californians,21,0.240795,Neither
+439,The Capsina An Historical Novel,0,0.039656,Neither
+440,The Carbonels,6,0.17646,Neither
+441,The Cardinal s Snuff Box,17,0.23777,Neither
+442,The Career of Claudia,1,0.211989,Neither
+443,The Carved Cupboard,29,0.228255,Neither
+444,A Bicycle of Cathay,10,0.404215,Neither
+445,A Modern Buccaneer,1,0.255566,Neither
+446,The Carved Lions,0,0.271026,Neither
+447,The Castle Inn,27,-0.057235,Neither
+448,The Changeling,8,0.252319,Neither
+449,The Chase of the Ruby,13,0.078971,Neither
+450,The Chevalier d Auriac,0,-0.012624,Neither
+451,The Children of the King,4,0.319214,Neither
+452,The Christian A Story,20,0.161452,Bestsellers
+453,The Chronicles of Count Antonio,9,-0.039608,Neither
+454,The Cock House at Fellsgarth,7,0.165704,Neither
+455,The Courtship of Morrice Buckler A Romance,11,-0.008026,Neither
+456,A Modern Mercenary,1,0.053846,Neither
+457,The Coxswain s Bride,4,0.207221,Neither
+458,The Crack of Doom,17,-0.018849,Neither
+459,The Crime and the Criminal,24,0.082048,Neither
+460,The Crisis ,716,0.109071,Neither
+461,The Crooked Stick Or Pollie s Probation,2,0.273062,Neither
+462,The Crown of Life,22,0.295948,Neither
+463,The Cruise of the Cachalot Round the World After Sperm Whales,0,0.178492,Neither
+464,The Cruise of the Esmeralda,0,0.54597,Neither
+465,The Crystal Hunters A Boy s Adventures in the Higher Alps,5,0.10088,Neither
+466,The Dash for Khartoum A Tale of the Nile Expedition,0,0.169803,Neither
+467,A Monk of Cruta,22,-0.08411,Neither
+468,The Datchet Diamonds,42,0.136553,Neither
+469,The Daughter of the Chieftain the Story of an Indian Girl,28,0.045462,Neither
+470,The Daughters of Danaus,43,0.128511,Neither
+471,The Day of Temptation,2,0.090701,Neither
+472,The Diary of a Nobody,12574,0.217269,Canonical novels
+473,The Dictator,2,0.316417,Neither
+474,The Dingo Boys The Squatters of Wallaby Range,2,-0.086111,Neither
+475,The Doctor his Wife and the Clock,0,-0.209555,Neither
+476,The Doings of Raffles Haw,173,0.289815,Neither
+477,The Doomswoman An Historical Romance of Old California,9,0.168139,Neither
+478,A Monk of Fife,9,0.115095,Neither
+479,The Drummer s Coat,0,-0.03482,Neither
+480,The Duke of Stockbridge A Romance of Shays Rebellion,13,0.004993,Neither
+481,The Eagle s Heart,3,0.165397,Neither
+482,The Ebb Tide A Trio And Quartette,335,-0.075254,Canonical novels
+483,The Empire Makers A Romance of Adventure and War in South Africa,0,0.130299,Neither
+484,The Eternal City,53,0.018418,Neither
+485,The Exploits of Brigadier Gerard,428,0.016658,Neither
+486,The Eye of Istar A Romance of the Land of No Return,1,-0.093207,Neither
+487,The Face and the Mask,6,0.143192,Neither
+488,The Family at Misrule,0,0.110134,Neither
+489,A Nest of Linnets,2,0.378404,Neither
+490,The Farringdons,5,0.578659,Bestsellers
+491,The Field of Clover,11,0.169785,Neither
+492,The Fifth of November A Romance of the Stuarts,2,0.026976,Neither
+493,The Firebrand ,2,0.150016,Neither
+494,The First Men in the Moon,12417,-0.05678,Canonical novels
+495,The Flight of the Shadow,128,0.046302,Neither
+496,The Flower of Forgiveness,2,0.119573,Neither
+497,The Forbidden Room Mine Answer was my Deed,1,0.070781,Neither
+498,The Forest Lovers,0,0.156367,Neither
+499,The Fourth Generation,1,0.07069,Neither
+500,A Pirate of the Caribbees,22,0.1864,Neither
+501,The Gadfly,8400,-0.047326,Neither
+502,The Garden of Swords,1,-0.013694,Bestsellers
+503,The Gateless Barrier,13,0.334024,Neither
+504,The Gathering of Brother Hilarius,0,0.006867,Neither
+505,The Gentleman from Indiana,103,0.192165,Neither
+506,The Girl at Cobhurst,2,0.530542,Neither
+507,The Girls and I A Veracious History,0,0.16637,Neither
+508,The Girls of St Wode's,0,0.268511,Neither
+509,The God in the Car A Novel,1,0.130737,Neither
+510,The Gold Stealers A Story of Waddy,0,-0.016165,Neither
+511,A Practical Novelist,0,0.113629,Neither
+512,The Gold that Glitters The Mistakes of Jenny Lavender,1,0.355888,Neither
+513,The Golden Age,1,0.143853,Neither
+514,The Golden Rock,1,-0.194816,Neither
+515,The Great Cattle Trail,5,-0.007874,Neither
+516,The Great Stone of Sardis,16,0.336003,Neither
+517,The Great War in England in 1897,12,-0.522304,Neither
+518,The Great White Queen A Tale of Treasure and Treason,37,-0.156699,Neither
+519,The Greater Inclination,119,0.111536,Neither
+520,The Green Carnation,150,0.277603,Neither
+521,The Grey Lady,0,0.233693,Neither
+522,A Protegee of Jack Hamlin's,4,0.251052,Neither
+523,The Grey Man,18,0.022617,Neither
+524,The Grim House,0,0.292959,Neither
+525,The Guinea Stamp  A Tale of Modern Glasgow,21,0.208862,Neither
+526,The Half Hearted,58,0.109047,Neither
+527,The Harlequin Opal,2,0.033468,Neither
+528,The Heart s Highway A Romance of Virginia in the Seventeenth Century,0,0.273684,Neither
+529,The Heart of Princess Osra,120,0.259764,Neither
+530,The Heavenly Twins,167,0.318395,Bestsellers
+531,The Heiress of Wyvern Court,0,0.352949,Neither
+532,The Herd Boy and His Hermit,1,0.278734,Neither
+533,A Ring of Rubies,0,0.293967,Neither
+534,The Hero ,283,0.143458,Neither
+535,The History of David Grieve,0,0.031811,Neither
+536,The History of Sir Richard Calmady A Romance,14,0.272712,Bestsellers
+537,The Honorable Miss A Story of an Old Fashioned Town,0,0.332446,Neither
+538,The Honour of Savelli A Romance,0,0.143222,Neither
+539,The Hosts of the Lord,1,0.073793,Neither
+540,The Hot Swamp,6,0.249621,Neither
+541,The House by the Lock,0,0.15451,Neither
+542,The House of Martha,3,0.487469,Neither
+543,The House with the Green Shutters,404,-0.086407,Neither
+544,A Romance of Wastdale,7,-0.01712,Neither
+545,The Hoyden,4,0.104363,Neither
+546,The Human Boy and the War,4,0.28689,Neither
+547,The Hypocrite,0,0.257123,Neither
+548,The Indiscretion of the Duchess Being a Story Concerning Two Ladies a Nobleman and a Necklace,49,0.110962,Neither
+549,The Induna s Wife,2,-0.138366,Neither
+550,The Infidel A Story of the Great Revival,5,0.286566,Neither
+551,The Inheritors,152,0.07917,Neither
+552,The Invisible Man A Grotesque Romance,133858,-0.103895,Canonical novels
+553,The Iron Pirate A Plain Tale of Strange Happenings on the Sea,11,-0.024289,Neither
+554,The Island of Doctor Moreau,90102,-0.314029,Canonical novels
+555,A Bid for Fortune Or Dr. Nikola's Vendetta,95,0.24873,Neither
+556,A Rose of a Hundred Leaves A Love Story,17,0.294951,Neither
+557,The Island of Gold A Sailor s Yarn,0,0.153243,Neither
+558,The Isle of Unrest,0,0.108627,Bestsellers
+559,The Ivory Gate a new edition,2,0.182373,Neither
+560,The Jamesons,0,0.351842,Neither
+561,The Jessamy Bride,0,0.289494,Neither
+562,The Judgment Books A Story,0,0.094925,Neither
+563,The King s Assegai A Matabili Story,9,-0.145796,Neither
+564,The King s Jackal,3,0.301549,Neither
+565,The King s Mirror,28,0.254361,Neither
+566,The King of Schnorrers Grotesques and Fantasies,76,0.109907,Neither
+567,A Rose of Yesterday,3,0.133293,Neither
+568,The Kopje Garrison A Story of the Boer War,13,-0.044586,Neither
+569,The Lady of Lynn,6,0.331344,Neither
+570,The Last Entry,13,0.061277,Neither
+571,The Last Stroke A Detective Story,0,0.179508,Neither
+572,The Last Tenant,6,0.158645,Neither
+573,The Laurel Walk,0,0.362044,Neither
+574,The Life and Death of Richard Yea and Nay,0,0.019659,Neither
+575,The Light of Scarthey A Romance,5,0.12256,Neither
+576,The Light That Failed,920,0.013619,Neither
+577,The Lilac Sunbonnet A Love Story,11,0.234437,Neither
+578,A Rough Shaking,73,0.095672,Neither
+579,The Lion's Brood,0,-0.183907,Neither
+580,The Little Clown,2,0.072293,Neither
+581,The Little Lady of Lagunitas A Franco Californian Romance,1,0.094653,Neither
+582,The Little Minister,211,-0.090581,Bestsellers
+583,The Log of a Privateersman,0,0.187143,Neither
+584,The Long Vacation,4,0.478191,Neither
+585,The Lord of Dynevor A Tale of the Times of Edward the First,0,0.223269,Neither
+586,The Lord of the Sea,26,0.008102,Neither
+587,The Lost Heir,0,0.372954,Neither
+588,The Lost Stradivarius,448,0.351233,Neither
+589,A Roving Commission Or Through the Black Insurrection at Hayti,0,0.183348,Neither
+590,The Lost Treasure of Trevlyn A Story of the Days of the Gunpowder Plot,0,0.200193,Neither
+591,The Love Affairs of an Old Maid,36,0.312455,Neither
+592,The Luck of Gerard Ridgeley,2,-0.058756,Neither
+593,The Lunatic at Large,0,0.378142,Neither
+594,The Maid of Honour A Tale of the Dark Days of France ,0,0.171562,Neither
+595,The Maid of Maiden Lane,6,0.467575,Neither
+596,The Making of a Prig,1,0.175148,Neither
+597,The Making of a Saint,76,0.0162,Neither
+598,The Making of Mary,1,0.463641,Neither
+599,The Man in Black,0,-0.163582,Neither
+600,A Second Coming,8,0.027799,Neither
+601,The Manxman A Novel,27,-0.000356,Bestsellers
+602,The Marriage of Elinor,0,0.261017,Neither
+603,The Martian A Novel,63,0.601368,Neither
+604,The Master Christian ,4,0.339647,Bestsellers
+605,The Master of the Shell,25,0.184649,Neither
+606,The Men of the Moss Hags Being ,6,0.01772,Neither
+607,The Mermaid A Love Tale,33,0.219891,Neither
+608,The Midnight Passenger,12,-0.029073,Neither
+609,The Moon Metal,0,0.327086,Neither
+610,The Mormon Prophet,6,0.175693,Neither
+611,A Singer from the Sea,0,0.29981,Neither
+612,The Mountain Lovers,3,-0.130545,Neither
+613,The Mystery of Choice,23,-0.033954,Neither
+614,The Mystery of the Clasped Hands ,4,0.343922,Neither
+615,The New Rector,0,0.108047,Neither
+616,The Nigger Of The Narcissus A Tale Of The Forecastle,1848,-0.240581,Canonical novels
+617,The Observations of Henry,36,0.258821,Neither
+618,The Odd Women,4395,0.153501,Canonical novels
+619,The Old Maids Club,2,0.253629,Neither
+620,The Open Question A Tale of Two Temperaments,1,0.188643,Neither
+621,The Orange Girl,5,0.046895,Neither
+622,A Sister of the Red Cross A Tale of the South African War,0,0.143651,Neither
+623,The Oriel Window,0,0.428427,Neither
+624,The Parasite A Story,447,0.000173,Neither
+625,The Path of a Star,0,0.300986,Neither
+626,The Paying Guest,125,0.14582,Neither
+627,The People of the Mist,3238,-0.048391,Neither
+628,The Philanderers,7,0.081474,Neither
+629,The Picture of Dorian Gray,919179,0.061888,Canonical novels
+630,The Pilots of Pomona A Story of the Orkney Islands,2,0.075362,Neither
+631,The Pirate Slaver A Story of the West African Coast,0,0.23205,Neither
+632,The Pomp of the Lavilettes ,0,0.029175,Neither
+633,A Sweet Girl Graduate,0,0.311148,Neither
+634,The Potter's Thumb,1,0.042033,Neither
+635,The Pride of Jennico Being a Memoir of Captain Basil Jennico ,4,0.111054,Neither
+636,The Prince of India Or Why Constantinople Fell ,0,0.379281,Neither
+637,The Princess Aline,26,0.447994,Neither
+638,The Prisoner of Zenda,17494,0.130214,Both canonical and bestsellers
+639,The Prophet of Berkeley Square,4,0.311304,Neither
+640,The Purple Cloud,1087,-0.156676,Neither
+641,The Queen s Cup,0,0.232294,Neither
+642,The Queen s Scarlet The Adventures and Misadventures of Sir Richard Frayne,1,0.044482,Neither
+643,The Queen Against Owen,0,-0.042315,Neither
+644,A Tale of Two Tunnels A Romance of the Western Waters,3,0.146289,Neither
+645,The Quest of the Golden Girl A Romance,12,0.590396,Neither
+646,The Rajah of Dah,0,0.105759,Neither
+647,The Ralstons,2,0.148397,Neither
+648,The Recipe for Diamonds,4,0.076925,Neither
+649,The Red Axe,4,0.118713,Neither
+650,The Red Badge of Courage An Episode of the American Civil War,87355,-0.131842,Neither
+651,The Red Cockade,0,-0.200397,Neither
+652,The Red Rat's Daughter,2,0.32562,Neither
+653,The Redemption of David Corson,8,0.100177,Neither
+654,The Refugees A Tale of Two Continents,130,0.03806,Bestsellers
+655,A Traveler from Altruria Romance ,69,0.457745,Neither
+656,The Reign of Law a tale of the Kentucky hemp fields,11,0.150159,Neither
+657,The Romance of Golden Star,9,0.438725,Neither
+658,The Romance of the Woods,0,0.183752,Neither
+659,The Romance of Zion Chapel,2,0.339705,Neither
+660,The Rome Express,0,0.015947,Neither
+661,The Rubicon,0,0.241058,Neither
+662,The Ruby Sword A Romance of Baluchistan,4,-0.038098,Neither
+663,The Sack of Monte Carlo An Adventure of To day,0,0.179205,Neither
+664,The Sacred Fount,223,0.354344,Neither
+665,The Scapegoat,9,-0.147166,Neither
+666,A Cabinet Secret,10,0.235622,Neither
+667,A Trip to Venus A Novel,31,0.472764,Neither
+668,The Secret Chamber at Chad,0,0.244802,Neither
+669,The Ship of Stars,0,0.120627,Neither
+670,The Sign of the Red Cross A Tale of Old London,0,-0.050715,Neither
+671,The Sign of the Spider,45,-0.036835,Neither
+672,The Skipper s Wooing and The Brown Man's Servant,0,0.079509,Neither
+673,The Sky Pilot A Tale of the Foothills,31,0.188322,Neither
+674,The Slave of the Lamp,0,0.210018,Neither
+675,The Solitary Summer,689,0.541552,Neither
+676,The Sorrows of Satan or The Strange Experience of One Geoffrey Tempest Millionaire A Romance,892,0.377599,Bestsellers
+677,The Sowers,0,0.178567,Bestsellers
+678,A Vanished Hand ,3,0.371959,Neither
+679,The Span o Life A Tale of Louisbourg Quebec,0,0.203882,Neither
+680,The Spoils of Poynton,1225,0.256488,Canonical novels
+681,The Star Gazers,0,0.167075,Neither
+682,The Stark Munro Letters Being series of twelve letters written by J Stark Munro M B to his friend and former fellow student Herbert Swanborough of Lowell Massachusetts during the years 1881 1884 ,74,0.206493,Neither
+683,The Story of a Red Deer,0,0.18202,Neither
+684,The Story of Ab A Tale of the Time of the Cave Man,22,0.191926,Neither
+685,The Story of Bessie Costrell,4,-0.082459,Neither
+686,The Story of Francis Cludde,0,-0.079757,Neither
+687,The Story of Sonny Sahib,0,0.084478,Neither
+688,The Story of the Glittering Plain Which Has Been Also Called the Land of Living Men or the Acre of the Undying,178,0.348824,Neither
+689,A Veldt Official A Novel of Circumstance,2,-0.030888,Neither
+690,The Strong Arm,1,0.037966,Neither
+691,The Sundering Flood,106,0.51322,Neither
+692,The Surprising Adventures of Sir Toady Lion with Those of General Napoleon Smith An Improving History for Old Boys Young Boys Good Boys Bad Boys Big Boys Little Boys Cow Boys and Tom Boys,2,0.153307,Neither
+693,The Survivor,0,0.1423,Neither
+694,The Swing of the Pendulum,0,0.13734,Neither
+695,The Tapu Of Banderah 1901,0,0.0969,Neither
+696,The Temptress,4,0.038107,Neither
+697,The Third Violet,33,0.123277,Neither
+698,The Thirsty Sword A Story of the Norse Invasion of Scotland 1262 1263,26,-0.026256,Neither
+699,The Three Impostors or The Transmutations,8,0.001872,Neither
+700,A Vendetta of the Desert,6,-0.155926,Neither
+701,The Three Partners,691,0.16952,Neither
+702,The Tiger Lily,2,0.087526,Neither
+703,The Tiger of Mysore A Story of the War with Tippoo Saib,0,0.145083,Neither
+704,The Time Machine,395089,-0.017294,Canonical novels
+705,The Town Traveller,22,0.205511,Neither
+706,The Tragedy of Ida Noble,0,0.118864,Neither
+707,The Tragedy of the Korosko,337,-0.049729,Neither
+708,The Trail of the Sword Complete,0,0.177294,Neither
+709,The Translation of a Savage Complete,0,0.297179,Neither
+710,The Triple Alliance Its Trials and Triumphs,0,0.192309,Neither
+711,A Woman's Burden A Novel,5,0.101115,Neither
+712,The Tysons Mr and Mrs Nevill Tyson,5,0.042538,Neither
+713,The Unknown Sea,1,-0.195344,Neither
+714,The Upper Berth,346,0.057213,Neither
+715,The Valiant Runaways,4,0.038496,Neither
+716,The Vast Abyss The Story of Tom Blount his Uncles  and his Cousin Sam   ,1,0.046848,Neither
+717,The Velvet Glove,0,0.155928,Neither
+718,The Village by the River,2,0.340962,Neither
+719,The Village Watch Tower,6,0.308609,Neither
+720,The Vintage A Romance of the Greek War of Independence,0,0.048279,Neither
+721,The Visits of Elizabeth   ,48,0.293685,Bestsellers
+722,A Woman Intervenes,7,0.254862,Neither
+723,The Vizier of the Two Horned Alexander  ,0,0.481827,Neither
+724,The Walrus Hunters A Romance of the Realms of Ice,3,0.267238,Neither
+725,The War of the Wenuses ,0,-0.005,Neither
+726,The War of the Worlds,235205,-0.266267,Canonical novels
+727,The Watchers A Novel,15,-0.003782,Neither
+728,The Water of the Wondrous Isles ,0,0.263797,Neither
+729,The Waters of Edera,6,-0.134557,Neither
+730,The Weathercock Being the Adventures of a Boy with a Bias,0,0.03081,Neither
+731,The Well Beloved,1553,0.175256,Canonical novels
+732,The Well at the World s End,653,0.545755,Neither
+733,A Young Mutineer,0,0.403492,Neither
+734,The Were Wolf,212,-0.325035,Neither
+735,The Wheels of Chance A Bicycling Idyll,328,0.10223,Neither
+736,The Whirlpool,121,0.175722,Neither
+737,The White Company,3786,0.177929,Neither
+738,The White Lady of Hazelwood,1,0.288105,Neither
+739,The White Shield,5,-0.058401,Neither
+740,The White Virgin,0,0.120394,Neither
+741,The Wiles of the Wicked,3,0.123222,Neither
+742,The Wings of Icarus,1,0.179604,Neither
+743,The Witch of Prague,79,0.027188,Neither
+744,Aaron the Jew,3,0.372322,Neither
+745,The Wizard,187,-0.003417,Neither
+746,The Woman Who Did,204,0.283705,Both canonical and bestsellers
+747,The Woman with One Hand and Mr Ely s Engagement,0,0.17242,Neither
+748,The Wonder Child,0,0.091974,Neither
+749,The Wonderful Visit,457,0.099648,Neither
+750,The Wood Pigeons and Mary,0,0.518592,Neither
+751,The Wood Beyond the World,2,0.31745,Canonical novels
+752,The Worshipper of the Image,10,0.094544,Neither
+753,The Wrecker,227,0.133296,Bestsellers
+754,The Wreckers of Sable Island,0,0.130031,Neither
+755,About Peggy Saville,0,0.271109,Neither
+756,The Young Ranchers Or Fighting the Sioux,1,0.077755,Neither
+757,The Young Woodsman Or Life in the Forests of Canada,0,0.367037,Neither
+758,The Zeit Geist,14,0.172792,Neither
+759,Their Wedding Journey,0,0.408038,Neither
+760,There Back ,444,0.264204,Neither
+761,Three Men on the Bummel,5024,0.211459,Canonical novels
+762,Through Russian Snows A Story of Napoleon s Retreat from Moscow,0,0.124796,Neither
+763,Ti Ti Pu A Boy of Red River,0,0.253021,Neither
+764,Timothy's Quest A Story for Anybody Young or Old Who Cares to Read It,20,0.471639,Neither
+765,Tiny Luttrell,3,0.348261,Neither
+766,According to Plato,0,0.498639,Neither
+767,To The West,0,0.094036,Neither
+768,Tom and Some Other Girls A Public School Story,0,0.271004,Neither
+769,Tom Ossington s Ghost,27,0.004313,Neither
+770,Tom Tufton s Travels,0,0.32268,Neither
+771,Tom Wallis A Tale of the South Seas,0,0.124231,Neither
+772,Tom Dick and Harry,6,0.062983,Neither
+773,Tommy and Grizel,42,0.19411,Neither
+774,Tongues of Conscience,1,-0.035801,Neither
+775,Tourmalin s Time Cheques,32,0.195613,Neither
+776,Trilby,1042,0.422542,Both canonical and bestsellers
+777,A Cathedral Courtship,3,0.530569,Neither
+778,Across Texas,2,0.128192,Neither
+779,Tristram of Blent,5,0.230809,Neither
+780,Trooper Peter Halket of Mashonaland,39,-0.067552,Neither
+781,Two Boys in Wyoming A Tale of Adventure Northwest Series ,4,0.15413,Neither
+782,Two Little Pilgrims Progress A Story of the City Beautiful,21,0.368377,Neither
+783,Two Maiden Aunts,8,0.411243,Neither
+784,Two Penniless Princesses,21,0.28137,Neither
+785,Uncle Bernac A Memory of the Empire,105,0.039648,Neither
+786,Under False Pretences A Novel,0,0.107145,Neither
+787,Under Wellington s Command A Tale of the Peninsular War,0,0.122535,Neither
+788,Vain Fortune A Novel,8,0.070074,Neither
+789,Active Service,28,0.112054,Neither
+790,Vandrad the Viking Or The Feud and the Spell,15,-0.079285,Neither
+791,Via Crucis A Romance of the Second Crusade,0,0.170537,Neither
+792,Viking Boys,1,0.294358,Neither
+793,Voices in the Night,1,0.042756,Neither
+794,Was It Right to Forgive A Domestic Romance,2,0.342048,Neither
+795,Waynflete,0,0.223562,Neither
+796,Wayside Courtships,1,0.198985,Neither
+797,Weir of Hermiston An Unfinished Romance,0,0.101884,Neither
+798,Well After All,0,0.150279,Neither
+799,Westerfelt,0,0.044526,Neither
+800,Adam Johnstone's Son,1,0.168333,Neither
+801,What s Bred in the Bone,37,-0.000741,Neither
+802,What Maisie Knew,5204,0.363179,Canonical novels
+803,What Necessity Knows,0,0.210459,Neither
+804,When London Burned a Story of Restoration Times and the Great Fire,0,0.171275,Neither
+805,When the Birds Begin to Sing,0,0.079974,Neither
+806,When the Sleeper Wakes,3677,-0.058357,Neither
+807,When Valmond Came to Pontiac The Story of a Lost Napoleon Complete,0,0.228871,Neither
+808,While the Billy Boils,55,-0.012113,Neither
+809,White Turrets,0,0.464536,Neither
+810,Who Goes There  The Story of a Spy in the Civil War,45,0.04385,Neither
+811,Adventures in Toyland What the Marionette Told Molly,11,0.171828,Neither
+812,Whoso Findeth a Wife,1,0.056682,Neither
+813,With Buller in Natal Or  a Born Leader,0,0.126733,Neither
+814,With Cochrane the Dauntless,56,0.14348,Neither
+815,With Edged Tools,2,0.230379,Neither
+816,With Frederick the Great A Story of the Seven Years War,0,0.148994,Neither
+817,With Moore at Corunna,0,0.143052,Neither
+818,With Rifle and Bayonet A Story of the Boer War,0,0.077623,Neither
+819,Witness to the Deed,1,-0.022988,Neither
+820,Wolfville,13,0.100985,Neither
+821,Woman and Artist,1,0.436107,Neither
+822,Against Odds A Detective Story,13,0.234759,Neither
+823,Won By the Sword a tale of the Thirty Years War ,0,0.277486,Neither
+824,Wulf the Saxon A Story of the Norman Conquest,0,0.184689,Neither
+825,Young Barbarians ,3,0.384264,Neither
+826,Young Blood ,3,0.125425,Neither
+827,Young Lives,5,0.595518,Neither
+828,Young Tom Bowling The Boys of the British Navy   ,0,0.339645,Neither
+829,Ziska The Problem of a Wicked Soul   ,126,0.365175,Neither
+830,Zoraida Romance of the Harem and the Great Sahara   ,3,-0.138905,Neither
+831,Agatha Webb   ,163,0.010764,Neither
+832,Aletta A Tale of the Boer Invasion,1,0.088954,Neither
+833,All's Well or Alice's Victory ,3,0.279274,Neither
+834,Almayer's Folly ,1240,-0.076583,Neither
+835,Amethyst ,0,0.3735,Neither
+836,A Change of Air  ,1,0.267011,Neither
+837,Amusement Only ,10,0.090073,Neither
+838,An African Millionaire Episodes in the Life of the Illustrious Colonel Clay   ,114,0.235712,Neither
+839,An American Girl in London ,0,0.349703,Neither
+840,An Artist in Crime   ,0,0.229548,Neither
+841,An Englishwoman's Love Letters  ,12,0.371289,Bestsellers
+842,An Interloper   ,1,0.044711,Neither
+843,An Isle in the Water  ,5,0.091219,Neither
+844,An Outcast of the Islands  ,679,-0.101784,Canonical novels
+845,Annie o' the Banks o' Dee ,0,0.177171,Neither
+846,April's Lady A Novel  ,9,0.097719,Neither
