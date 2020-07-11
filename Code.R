@@ -26,7 +26,8 @@ names_of_observations <- sapply(sentences, "[[", 1)
 names_of_observations <- as.data.frame(names_of_observations)
 write.csv(names_of_observations, file="/Names_of_observations.csv", row.names = TRUE)
 
-#This was then cleaned up and added to the Sentiment_dataset1.csv manually in Microsoft Excel, along with columns with the Goodreads ratings and the status of the novel (Bestseller, canonical, both, neither)
+#This was then cleaned up and added to the Sentiment_dataset1.csv manually in Microsoft Excel, along with columns with the Goodreads ratings and the status of the novel 
+#(Bestseller, canonical, both, neither)
 
 #Plotting the data
 
