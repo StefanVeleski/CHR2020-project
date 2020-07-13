@@ -100,6 +100,10 @@ ggarrange(A, B, C, D,
           ncol = 2, nrow = 2)
 
 ####Boxplot of Gutenberg IDs####
+set.seed(123)
+
+options(scipen=10000)
+
 library("ggstatsplot")
 ggbetweenstats(data = GutenbergIDboxplotdata, 
                x = Factor,
@@ -109,6 +113,10 @@ ggbetweenstats(data = GutenbergIDboxplotdata,
     scale_y_log10()
 
 ####Boxplot of bestsellers and different canonical editions####
+set.seed(123)
+
+options(scipen=10000)
+
 ggbetweenstats(data = box_plot_data1, 
                x = Type,
                y = `Number of Ratings`,
