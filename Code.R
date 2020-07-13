@@ -34,22 +34,30 @@ write.csv(names_of_observations, file="/Names_of_observations.csv", row.names = 
 ####Correlation plot of the full dataset####
 library(ggpubr)
 options(scipen=10000)
-ggscatter(Sentiment_dataset1, x = 'Goodreads', y = 'Sentiment',
+E<- ggscatter(Sentiment_dataset1, x = 'Goodreads', y = 'Sentiment',
           add = "reg.line", conf.int = TRUE,
           color = 'dimgray',
           xscale = "log10",
           cor.coef = TRUE, cor.method = "pearson",
+          title = "Correlation plot (full dataset)",
           xlab = "Number of Goodreads ratings (log)", ylab = "Mean Sentiment")
 
 ####Facet wrapped graph####
 options(scipen=10000)
-ggscatter(Sentiment_dataset1, x = 'Goodreads', y = 'Sentiment',
+F<- ggscatter(Sentiment_dataset1, x = 'Goodreads', y = 'Sentiment',
           add = "reg.line", conf.int = TRUE,
           color = 'Status',
           xscale = "log10",
           cor.coef = TRUE, cor.method = "pearson",
+          title = "Correlation plot (faceted by status)",
           xlab = "Number of Goodreads ratings (log)", ylab = "Mean Sentiment", 
           facet.by = 'Status')
+
+#combining the two graphs
+ggarrange(E, F, 
+          labels = c("1", "2"),
+          ncol = 1, nrow = 2)
+
 
 ####Power law plots for CHR2020 article####
 library(ggpubr)
@@ -96,7 +104,7 @@ D <- ggplot(df2, aes(x=df2$Rank, y=df2$`Number of ratings`)) +
 
 #Merging all of them in a single graph
 ggarrange(A, B, C, D, 
-          labels = c("A", "B", "C", "D"),
+          labels = c("1", "2", "3", "4"),
           ncol = 2, nrow = 2)
 
 ####Boxplot of Gutenberg IDs####
@@ -123,3 +131,12 @@ ggbetweenstats(data = box_plot_data1,
                ylab = "Number of Ratings (log)",
                outlier.tagging = FALSE) +
     scale_y_log10()
+
+####Boxplot of sentiment and status of the novels####
+set.seed(123)
+ggbetweenstats(data = Sentiment_dataset1, 
+               x = Status,
+               y = Sentiment,
+               ylab = "Mean sentiment",
+               outlier.tagging = TRUE,
+               outlier.label = Title)
