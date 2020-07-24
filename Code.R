@@ -66,7 +66,7 @@ library(ggpubr)
 options(scipen=10000)
 df <- Popularity_and_rank
 A<- ggplot(df, aes(x=df$Rank, y=df$`Number of Ratings`)) +
-    geom_point(alpha = 0.8, size = 3, color = "lightcoral") +
+    geom_point(alpha = 0.8, size = 3, color = 'dimgray') +
     labs(title = "Full dataset", 
          x = "Rank", 
          y ="Number of Ratings")
@@ -74,38 +74,15 @@ A<- ggplot(df, aes(x=df$Rank, y=df$`Number of Ratings`)) +
 #overall
 options(scipen=10000)
 B <- ggplot(df, aes(x=df$Rank, y=df$`Number of Ratings`)) +
-    geom_point(alpha = 0.8, size = 3, color = "lightcoral") +
+    geom_point(alpha = 0.8, size = 3, color = 'dimgray') +
     scale_x_log10()+
     labs(title = "Full dataset (log)", 
          x = "Rank", 
          y ="Number of Ratings")
-
-#Gutenberg IDs non log
-
-df2 <- GutenbergIDboxplotdata %>%
-    filter(Factor== "Y")
-df2
-C <- ggplot(df2, aes(x=df2$Rank, y=df2$`Number of ratings`)) +
-    geom_point(alpha = 0.8, size = 3, color = "cyan3") +
-    labs(title = "Books with Gutenberg IDs", 
-         x = "Rank (log)", 
-         y ="Number of Ratings")
-
-#those with gutenberg IDs
-df2 <- GutenbergIDboxplotdata %>%
-    filter(Factor== "Y")
-df2
-D <- ggplot(df2, aes(x=df2$Rank, y=df2$`Number of ratings`)) +
-    geom_point(alpha = 0.8, size = 3, color = "cyan3") +
-    scale_x_log10()+
-    labs(title = "Books with Gutenberg IDs (log)", 
-         x = "Rank (log)", 
-         y ="Number of Ratings")
-
 #Merging all of them in a single graph
-ggarrange(A, B, C, D, 
-          labels = c("1", "2", "3", "4"),
-          ncol = 2, nrow = 2)
+ggarrange(A, B,
+          labels = c("1", "2"),
+          ncol = 2, nrow = 1)
 
 ####Boxplot of Gutenberg IDs####
 set.seed(123)
