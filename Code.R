@@ -117,3 +117,23 @@ ggbetweenstats(data = Sentiment_dataset1,
                ylab = "Mean sentiment",
                outlier.tagging = TRUE,
                outlier.label = Title)
+
+####t-test of mean sentiment between bestsellers and canonical novels####
+#t-test using built in function in R
+filter(Sentiment_dataset1, Status == "Bestsellers")
+x <- x$Sentiment
+y <- filter(Sentiment_dataset1, Status == "Canonical novels")
+y <- y$Sentiment
+
+t.test(x,y)
+
+#t-test using ggstatsplot package
+library(ggstatsplot)
+library(tidyverse)
+set.seed(123)
+ddata <- filter(Sentiment_dataset1, Status %in% c("Bestsellers", "Canonical novels"))
+
+ggbetweenstats(data = ddata, 
+               x = Status,
+               y = Sentiment,
+               ylab = "Mean sentiment")
