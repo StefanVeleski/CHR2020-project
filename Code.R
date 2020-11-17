@@ -1,14 +1,12 @@
 ####Creating the Sentiment_dataset1.csv file####
 library(syuzhet)
 library(stringr)
+
 filenames <- list.files("/Text files", pattern="*.txt", full.names=TRUE)
 ldf <- lapply(filenames, get_text_as_string)
 
-#ldf is a list of lists, and I needed it to be a list of vectors so
-ldf_as_vector <- lapply(ldf, function(x) unlist(ldf[x], use.names = FALSE))
-
 #This line of code uses the syuzhet package to divide the novels into sentences
-sentences <- lapply(ldf_as_vector, get_sentences)
+sentences <- lapply(ldf, get_sentences)
 
 #This line extracts the sentiment of each sentence of the novels
 sentiment <- lapply(sentences, get_sentiment)
