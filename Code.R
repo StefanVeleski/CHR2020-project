@@ -2,7 +2,7 @@
 library(syuzhet)
 library(stringr)
 
-filenames <- list.files("/Text files", pattern="*.txt", full.names=TRUE)
+filenames <- list.files("~/Text files", pattern="*.txt", full.names=TRUE)
 ldf <- lapply(filenames, get_text_as_string)
 
 #This line of code uses the syuzhet package to divide the novels into sentences
